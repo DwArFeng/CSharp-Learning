@@ -8,7 +8,7 @@
     <ProjectGuid>{94F4C670-B86E-4B63-922B-809A8E7E56CF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GetSetSample</RootNamespace>
+    <RootNamespace>CoreCSharpSamples.GetSetSample</RootNamespace>
     <AssemblyName>GetSetSample</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>

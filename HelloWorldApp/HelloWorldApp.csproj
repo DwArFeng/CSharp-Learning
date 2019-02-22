@@ -8,7 +8,7 @@
     <ProjectGuid>{4EC3D3BB-B66A-47C2-92CE-358BCEF1AAC6}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HelloWorldApp</RootNamespace>
+    <RootNamespace>CoreCSharpSamples.HelloWorldApp</RootNamespace>
     <AssemblyName>HelloWorldApp</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>

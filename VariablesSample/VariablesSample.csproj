@@ -8,7 +8,7 @@
     <ProjectGuid>{B932BFC6-373F-481F-B315-4554C78AF56B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>VariablesSample</RootNamespace>
+    <RootNamespace>CoreCSharpSamples.VariablesSample</RootNamespace>
     <AssemblyName>VariablesSample</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
